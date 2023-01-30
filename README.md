@@ -1,6 +1,7 @@
-### Hello, I'm Imaculada Sousa! 🙋
-
-Sou Farmacêutica com ascendente em Tecnologia da Informação, encontrando-se em transição de carreira. Estudante de engenharia de software à noite e rata de academia pela manhã.
+### Hello, I'm Imaculada Sousa 🙋
+Tenho 25 anos, cearense nata e mineirense por coincidência.
+Uma Farmacêutica com ascendência em Tecnologia da Informação.
+Amo exercitar o corpo e a mente, I love treinar! ❤️
 ___________________________________
 
 [![Linkedln](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imaculadasousa/)
