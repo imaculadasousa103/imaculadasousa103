@@ -1,6 +1,6 @@
 ### Hello 🥳, I'm Imaculada Sousa 
 Tenho 25 anos, cearense nata e mineirense por coincidência.
-Uma Farmacêutica com ascendência em Tecnologia da Informação.
+Uma Farmacêutica com ascendência em Tecnologia da Informação, sendo estudante de Engenharia de Software.
 Amo exercitar o corpo e a mente, I love treinar! ❤️
 ___________________________________
 ### 📍Você também poderá me encontrar no:
