@@ -8,7 +8,7 @@ ___________________________________
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_imaculadasousa/)
 ___________________________________
 
-### 👩‍💻 TECNOLOGIAS DA WEB QUE ESTOU APRENDENDO:
+### 👩‍💻 TECNOLOGIA QUE ESTOU APRENDENDO:
 ![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ### 👩‍💻 TECNOLOGIAS DA WEB QUE CONHEÇO: 
 ![HTML5](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
